@@ -12,6 +12,7 @@ void sumAndSub()
     int sum, sub;
     //Hàm in, %<loại dữ liệu> để xuất, khai báo biến phía sau %<loại dữ liệu>.
     printf("Sum: %d\nSub: %d", numb1+numb2, numb1-numb2);
+    return 0;
 }
 
 //CÂU 2: Chu vi Diện tích HCN.
